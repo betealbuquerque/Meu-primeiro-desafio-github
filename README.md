@@ -1,2 +1,2 @@
 # Meu-primeiro-desafio-github
-Meu Primeiro Desafio de Projeot Git/Github
+Meu Primeiro Desafio de Projeto Git/Github
